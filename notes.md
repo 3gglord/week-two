@@ -4,4 +4,6 @@
 
 ## getting started with Anaconda
 
+## getting started with Wget
+
 ## new terms
