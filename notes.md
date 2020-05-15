@@ -18,6 +18,7 @@ https://stackoverflow.com/questions/33494067/lfs-version-7-8-wget-is-not-working
 - when I tried, I got this error message: 
 - used [this website](https://stackoverflow.com/questions/27893230/installation-of-package-file-path-had-non-zero-exit-status-in-r) when I googled the error message
 
+## bonus exercise
 
 ## new terms
 
