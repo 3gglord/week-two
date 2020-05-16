@@ -1,17 +1,22 @@
 # Week Two notes
 
 ## getting started with Sublime
+- easy installation, no errors
 
 ## getting started with Anaconda
+- 
 
 ## getting started with Wget
-https://askubuntu.com/questions/1190692/error-when-using-wget-to-download-a-list-of-urls-in-a-txt-file
-https://stackoverflow.com/questions/40986340/how-to-wget-a-list-of-urls-in-a-text-file
-https://stackoverflow.com/questions/33494067/lfs-version-7-8-wget-is-not-working
+- no problems downloading papers from archivehistory.ca
+- was taking a while, so I was worried that I was downloading more than what was instructed, but it finished and didn't look like too many files
+- discussion in the Week Two text channel of the Discord server showed that others had the same concern, and it also took them over 15 minutes to download the papers
+- I wonder if there is any way to stop the downloading process in case we do end up accidentally asking for more than we meant to?
+- ran into an error message when trying to download the urls from urls.txt:
+- googled the error message and used [this link](https://stackoverflow.com/questions/33494067/lfs-version-7-8-wget-is-not-working) and [this one](https://askubuntu.com/questions/1190692/error-when-using-wget-to-download-a-list-of-urls-in-a-txt-file) to discover that I didn't save urls.txt into the wget-archivehistory directory. So, I changed my working directory to the correct one where my txt file was saved and input the command again, which worked!
 
 ## APIs
 - worked well, no errors
-- still need to get used to syntax and how to find out how APIs are formatted for specific databases
+- still need to get used to syntax and how to find out how APIs are formatted for different websites, which I suppose will just come with continued use and practice
 
 ## OCR
 - trouble installing the packages
