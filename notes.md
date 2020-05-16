@@ -7,7 +7,7 @@
 - 
 
 ## getting started with Wget
-- no problems downloading papers from archivehistory.ca
+- ran into an error message when downloading papers from archivehistory.ca ![ah-error](
 - was taking a while, so I was worried that I was downloading more than what was instructed, but it finished and didn't look like too many files
 - discussion in the Week Two text channel of the Discord server showed that others had the same concern, and it also took them over 15 minutes to download the papers
 - I wonder if there is any way to stop the downloading process in case we do end up accidentally asking for more than we meant to?
