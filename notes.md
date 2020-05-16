@@ -21,11 +21,10 @@
 - still need to get used to syntax and how to find out how APIs are formatted for different websites, which I suppose will just come with continued use and practice
 
 ## OCR
-- trouble installing the packages
-- when I tried, I got this error message: 
-- used [this website](https://stackoverflow.com/questions/27893230/installation-of-package-file-path-had-non-zero-exit-status-in-r) when I googled the error message
-- tried to download https://community.rstudio.com/t/r-does-not-launch-properly/8630/2 
-finally worked after downloading it again and following the instructions!
+- downloaded R studio from Anaconda Navigator, but when I tried to launch it I got this blank error message: ![r-app-error](
+- googled the problem and got to [this site](https://community.rstudio.com/t/r-does-not-launch-properly/8630/2)
+- uninstalled Rstudio from Anaconda Navigator and downloaded directly onto my computer, following the instructions from the website
+- followed the OCR exercise instructions from Week Two and everything worked 
 
 ## bonus exercise
 https://stackoverflow.com/questions/58742620/ffmpeg-giving-me-failed-to-open-segment-error-trying-to-parse-wav-file-into-30
