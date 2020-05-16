@@ -40,7 +40,6 @@
 - looked up the error messages on google and downloaded the things I was missing through these websites: [pytest-astropy](https://pypi.org/project/pytest-astropy/), [pytest-filter-subpackage](https://pypi.org/project/pytest-filter-subpackage/), [jupyterlab-server](https://pypi.org/project/jupyterlab-server/), [six](https://pypi.org/project/six/#description)
 - continued to follow the instructions and it worked !
 
-## new terms
 ### commandline prompts
 - `pwd`: to see the working directory
 - `ls`: list files (to see what's inside a folder)
@@ -52,6 +51,7 @@
 - `-l`: links beyond domain we started in
 - `-w`: wait time between requests to the server
 - `--limit-rate`: limit bandwidth for request (slows down the time it takes to perform the request)
-- API: Application Programing Interface; instead of an interface meant for a human to interact with the machine, there’s an API to allow some other machine to interact with this one
-- OCR: Object Chapter Recognition; technique that looks at the pattern of light and dark pixels in an image and matches them against the alphabet
-- collections as data: mapping the sources themselves can give us historical data
+### new terms
+- __API__: Application Programing Interface; instead of an interface meant for a human to interact with the machine, there’s an API to allow some other machine to interact with this one
+- __OCR__: Object Chapter Recognition; technique that looks at the pattern of light and dark pixels in an image and matches them against the alphabet
+- __collections as data__: mapping the sources themselves can give us historical data
