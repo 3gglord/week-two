@@ -41,6 +41,19 @@
 - continued to follow the instructions and it worked !
 
 ## new terms
+### commandline prompts
+- `pwd`: to see the working directory
+- `ls`: list files (to see what's inside a folder)
+- `cd subfolder`: to change directories
+- `cd ..`: to go back up a level
+- `mkdir`: make a directory
+- `-r`: recursive (recursive links)
+- `-np`: no-parent (follow links that lead to destinations insie the folder)
+- `-l`: links beyond domain we started in
+- `-w`: wait time between requests to the server
+- `--limit-rate`: limit bandwidth for request (slows down the time it takes to perform the request)
+- API: Application Programing Interface; instead of an interface meant for a human to interact with the machine, there’s an API to allow some other machine to interact with this one
+- OCR: Object Chapter Recognition; technique that looks at the pattern of light and dark pixels in an image and matches them against the alphabet
 
-
-collections as data
+##
+- collections as data: mapping the sources themselves can give us historical data
