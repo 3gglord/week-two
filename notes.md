@@ -54,6 +54,4 @@
 - `--limit-rate`: limit bandwidth for request (slows down the time it takes to perform the request)
 - API: Application Programing Interface; instead of an interface meant for a human to interact with the machine, there’s an API to allow some other machine to interact with this one
 - OCR: Object Chapter Recognition; technique that looks at the pattern of light and dark pixels in an image and matches them against the alphabet
-
-##
 - collections as data: mapping the sources themselves can give us historical data
