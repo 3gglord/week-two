@@ -21,22 +21,24 @@
 - still need to get used to syntax and how to find out how APIs are formatted for different websites, which I suppose will just come with continued use and practice
 
 ## OCR
-- downloaded R studio from Anaconda Navigator, but when I tried to launch it I got this blank error message: ![r-app-error](
+- downloaded R studio from Anaconda Navigator, but when I tried to launch it I got this blank error message: ![r-app-error](r-app-error.png)
 - googled the problem and got to [this site](https://community.rstudio.com/t/r-does-not-launch-properly/8630/2)
 - uninstalled Rstudio from Anaconda Navigator and downloaded directly onto my computer, following the instructions from the website
 - followed the OCR exercise instructions from Week Two and everything worked 
 
 ## bonus exercise
-https://stackoverflow.com/questions/58742620/ffmpeg-giving-me-failed-to-open-segment-error-trying-to-parse-wav-file-into-30
-saw somebody's message in discord, saw that they had the same error as me and found Dr. Graham's solution to the problem two years ago: 
-found [this youtube video](https://www.youtube.com/watch?v=EGaw6VXV3GI) about managing anaconda environments and used it to deactive the current environment I was in then followed week two instructions to make a new environment
-tried to redownload the requirements.txt info but I got these error messages:
-looked up the error messages on google and downloaded the things I was missing
-https://pypi.org/project/pytest-astropy/
-https://pypi.org/project/pytest-filter-subpackage/
-https://pypi.org/project/jupyterlab-server/
-https://pypi.org/project/six/#description
-it works!!!
+- no problems working with Google Console and setting up
+- ran into an error when breaking up the file into 30 second clips: ![segment-error](
+- googled the error and got to [this website](https://stackoverflow.com/questions/58742620/ffmpeg-giving-me-failed-to-open-segment-error-trying-to-parse-wav-file-into-30)
+- realized that it was because I didn't have a "parts" directory where the segements were supposed to save
+- created a "parts" directory and it worked :)
+- got another error message when it was time to create the transcription: 
+- followed the instructions and enabled the Google API for the project, but I was still getting the error message: `ValueError: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format`
+- saw @cocochantal on discord had the same error as me and found Dr. Graham's solution to the problem two years ago: ![py-transcript-solution](
+- found [this youtube video](https://www.youtube.com/watch?v=EGaw6VXV3GI) about managing Anaconda environments and used it to deactive the current environment I was in then followed week two instructions to make a new environment
+- tried to redownload the requirements.txt info but I got these error messages: ![requirements-error](
+- looked up the error messages on google and downloaded the things I was missing through these websites: [pytest-astropy](https://pypi.org/project/pytest-astropy/), [pytest-filter-subpackage](https://pypi.org/project/pytest-filter-subpackage/), [jupyterlab-server](https://pypi.org/project/jupyterlab-server/), [six](https://pypi.org/project/six/#description)
+- continued to follow the instructions and it worked !
 
 ## new terms
 
