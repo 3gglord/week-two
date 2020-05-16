@@ -34,7 +34,7 @@
 - created a "parts" directory and it worked :)
 - got another error message when it was time to create the transcription: 
 - followed the instructions and enabled the Google API for the project, but I was still getting the error message: `ValueError: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format`
-- saw @cocochantal on discord had the same error as me and found Dr. Graham's solution to the problem two years ago: ![py-transcript-solution](py-transcript-solution.png)
+- saw @cocochantal on discord had the same error as me and found [Dr. Graham's solution](https://www.alexkras.com/transcribing-audio-file-to-text-with-google-cloud-speech-api-and-python/) to the problem two years ago: ![py-transcript-solution](py-transcript-solution.png)
 - found [this youtube video](https://www.youtube.com/watch?v=EGaw6VXV3GI) about managing Anaconda environments and used it to deactive the current environment I was in then followed week two instructions to make a new environment
 - tried to redownload the requirements.txt info but I got these error messages: ![requirements-error](requirements-error.png)
 - looked up the error messages on google and downloaded the things I was missing through these websites: [pytest-astropy](https://pypi.org/project/pytest-astropy/), [pytest-filter-subpackage](https://pypi.org/project/pytest-filter-subpackage/), [jupyterlab-server](https://pypi.org/project/jupyterlab-server/), [six](https://pypi.org/project/six/#description)
