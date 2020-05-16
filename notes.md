@@ -32,7 +32,7 @@
 - googled the error and got to [this website](https://stackoverflow.com/questions/58742620/ffmpeg-giving-me-failed-to-open-segment-error-trying-to-parse-wav-file-into-30)
 - realized that it was because I didn't have a "parts" directory where the segements were supposed to save
 - created a "parts" directory and it worked :)
-- got another error message when it was time to create the transcription: 
+- got another error message when it was time to create the transcription: ![google-API-error]()
 - followed the instructions and enabled the Google API for the project, but I was still getting the error message: `ValueError: Audio file could not be read as PCM WAV, AIFF/AIFF-C, or Native FLAC; check if file is corrupted or in another format`
 - saw @cocochantal on discord had the same error as me and found [Dr. Graham's solution](https://www.alexkras.com/transcribing-audio-file-to-text-with-google-cloud-speech-api-and-python/) to the problem two years ago: ![py-transcript-solution](py-transcript-solution.png)
 - found [this youtube video](https://www.youtube.com/watch?v=EGaw6VXV3GI) about managing Anaconda environments and used it to deactive the current environment I was in then followed week two instructions to make a new environment
