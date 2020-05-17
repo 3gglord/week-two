@@ -28,7 +28,7 @@
 
 ## bonus exercise
 - no problems working with Google Console and setting up
-- ran into an error when breaking up the file into 30 second clips: ![segment-error](
+- ran into an error when breaking up the file into 30 second clips: ![segment-error](segment-error.png)
 - googled the error and got to [this website](https://stackoverflow.com/questions/58742620/ffmpeg-giving-me-failed-to-open-segment-error-trying-to-parse-wav-file-into-30)
 - realized that it was because I didn't have a "parts" directory where the segements were supposed to save
 - created a "parts" directory and it worked :)
