@@ -1,6 +1,8 @@
 # Week two journal
 - most of my failures this week seemed to be human errors, like when I didn't have the correct working directory in my terminal
 - but, after encountering those problems I paid more attention to where I was entering my commands and used those early mistakes to troubleshoot other errors
+- downloaded files that I created during the week as evidence
+- only downloaded the files that were not too large
 
 ## Reflection
 After reading the articles for this week, I now have a deeper appreciation for the professional work that goes into creating transcriptions to be put online. I am a volunteer transcriber for the Multicultural History Society of Ontario, so I understand why people are motivated to volunteer and the work that goes into it. I thought that the readings were interesting because while they were written by the researchers to understand the process of being a volunteer in crowdsourced projects, I felt like I was learning about the work that the full-time employees put in to make volunteering as easy as possible. I also have a newfound appreciation for how many projects the employees have to moderate.
